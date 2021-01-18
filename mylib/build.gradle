@@ -45,8 +45,8 @@ dependencies {
 version = "1.0.1"
 
 // 定义两个链接，下面会用到。
-def siteUrl = 'https://github.com/febflyer/OSSRH-62793' // 项目主页。
-def gitUrl = 'git@github.com:febflyer/OSSRH-62793.git' // Git仓库的url。
+def siteUrl = 'https://github.com/febflyer/testmaven' // 项目主页。
+def gitUrl = 'git@github.com:febflyer/testmaven.git' // Git仓库的url。
 
 // 唯一包名，比如compile 'com.yanzhenjie:andserver:1.0.1'中的com.yanzhenjie就是这里配置的。
 group = "com.febflyer"
